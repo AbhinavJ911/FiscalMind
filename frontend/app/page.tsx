@@ -1,6 +1,6 @@
 "use client"
 
-import { useState, useEffect, useMemo, useCallback } from "react"
+import { useState, useEffect, useMemo, useCallback, Suspense } from "react"
 import { useSearchParams, useRouter, usePathname } from "next/navigation"
 import { KPICard } from "@/components/ui/KPICard"
 import { ChartCard } from "@/components/ui/ChartCard"
@@ -11,7 +11,7 @@ import Link from "next/link"
 import { Area, AreaChart, Bar, BarChart, CartesianGrid, ResponsiveContainer, Tooltip, XAxis, YAxis, PieChart, Pie, Cell, Legend } from "recharts"
 import * as XLSX from 'xlsx'
 
-export default function Dashboard() {
+function DashboardContent() {
   const [budgets, setBudgets] = useState<any[]>([]);
   const [selectedYear, setSelectedYear] = useState<string>("");
   const [loading, setLoading] = useState(true);
@@ -441,5 +441,13 @@ export default function Dashboard() {
         </div>
       </div>
     </div>
+  )
+}
+
+export default function Dashboard() {
+  return (
+    <Suspense fallback={<div className="p-6 text-foreground">Loading dashboard...</div>}>
+      <DashboardContent />
+    </Suspense>
   )
 }

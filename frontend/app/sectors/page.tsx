@@ -1,6 +1,6 @@
 "use client"
 
-import { useEffect, useState, useCallback } from "react"
+import { useEffect, useState, useCallback, Suspense } from "react"
 import Link from "next/link"
 import { useSearchParams, useRouter, usePathname } from "next/navigation"
 import { YearSelector } from "@/components/YearSelector"
@@ -15,7 +15,7 @@ interface Sector {
     description: string
 }
 
-export default function SectorsPage() {
+function SectorsPageContent() {
     const [allSectors, setAllSectors] = useState<Sector[]>([])
     const [selectedYear, setSelectedYear] = useState<string>("")
     const [loading, setLoading] = useState(true)
@@ -118,5 +118,19 @@ export default function SectorsPage() {
                 </div>
             )}
         </div>
+    )
+}
+
+export default function SectorsPage() {
+    return (
+        <Suspense fallback={
+            <div className="grid gap-4 md:grid-cols-3">
+                {[1, 2, 3].map(i => (
+                    <div key={i} className="h-40 rounded-lg bg-muted/20 animate-pulse" />
+                ))}
+            </div>
+        }>
+            <SectorsPageContent />
+        </Suspense>
     )
 }
