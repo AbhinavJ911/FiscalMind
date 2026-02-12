@@ -1,0 +1,262 @@
+[
+    {
+        "year": "2024-2025",
+        "total_expenditure": 4765768,
+        "total_receipts": 3080274,
+        "fiscal_deficit": 5.1,
+        "sectors": [
+            {
+                "name": "Defence",
+                "allocation": 621540.85,
+                "description": "Highest allocation for modernization of armed forces, border infrastructure, and self-reliance in defence manufacturing.",
+                "schemes": [
+                    {
+                        "name": "Capital Outlay on Defence Services",
+                        "allocation": 172000
+                    },
+                    {
+                        "name": "Defence Pensions",
+                        "allocation": 141205
+                    },
+                    {
+                        "name": "Border Roads Organization",
+                        "allocation": 6500
+                    }
+                ],
+                "policies": [
+                    "Agnipath Scheme implementation",
+                    "Indigenization of defence equipment"
+                ]
+            },
+            {
+                "name": "Agriculture and Allied Activities",
+                "allocation": 127000.00,
+                "description": "Focus on increasing farmer income, sustainable forming, and digital public infrastructure for agriculture.",
+                "schemes": [
+                    {
+                        "name": "PM-KISAN",
+                        "allocation": 60000
+                    },
+                    {
+                        "name": "Pradhan Mantri Fasal Bima Yojana",
+                        "allocation": 14600
+                    },
+                    {
+                        "name": "Modified Interest Subvention Scheme",
+                        "allocation": 22600
+                    }
+                ],
+                "policies": [
+                    "Promotion of Nano DAP",
+                    "Atmanirbhar Oilseeds Abhiyan",
+                    "Digital crop survey"
+                ]
+            },
+            {
+                "name": "Education",
+                "allocation": 120627.87,
+                "description": "Emphasis on digital literacy, upgrading schools to PM SHRI schools, and strengthening higher education.",
+                "schemes": [
+                    {
+                        "name": "Samagra Shiksha",
+                        "allocation": 37500
+                    },
+                    {
+                        "name": "PM SHRI Schools",
+                        "allocation": 6000
+                    },
+                    {
+                        "name": "Pm Poshan",
+                        "allocation": 12467
+                    }
+                ],
+                "policies": [
+                    "National Education Policy (NEP) 2020 Implementation",
+                    "Skill India Mission"
+                ]
+            },
+            {
+                "name": "Railways",
+                "allocation": 255393.00,
+                "description": "Record allocation for safety, new tracks, and Vande Bharat trains.",
+                "schemes": [
+                    {
+                        "name": "Capital Outlay on Commercial Lines",
+                        "allocation": 252000
+                    },
+                    {
+                        "name": "Safety Fund",
+                        "allocation": 45000
+                    }
+                ],
+                "policies": [
+                    "40,000 bogies to be converted to Vande Bharat standards",
+                    "Three major economic railway corridor programmes"
+                ]
+            },
+            {
+                "name": "Road Transport and Highways",
+                "allocation": 278000.00,
+                "description": "Expansion of National Highways and expressways under Bharatmala Pariyojana.",
+                "schemes": [
+                    {
+                        "name": "NHAI Investment",
+                        "allocation": 168464
+                    },
+                    {
+                        "name": "Road Works",
+                        "allocation": 107000
+                    }
+                ],
+                "policies": [
+                    "Focus on multimodal connectivity",
+                    "Green National Highways"
+                ]
+            },
+            {
+                "name": "Healthcare",
+                "allocation": 90658.63,
+                "description": "Strengthening public health infrastructure and expanding medical education.",
+                "schemes": [
+                    {
+                        "name": "National Health Mission",
+                        "allocation": 38183
+                    },
+                    {
+                        "name": "Ayushman Bharat (PMJAY)",
+                        "allocation": 7500
+                    },
+                    {
+                        "name": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission",
+                        "allocation": 4108
+                    }
+                ],
+                "policies": [
+                    "Cervical Cancer Vaccination for girls (9-14 years)",
+                    "Expansion of medical colleges"
+                ]
+            },
+            {
+                "name": "Rural Development",
+                "allocation": 177566.00,
+                "description": "Boosting rural economy through employment guarantee and housing.",
+                "schemes": [
+                    {
+                        "name": "MGNREGA",
+                        "allocation": 86000
+                    },
+                    {
+                        "name": "Pradhan Mantri Awas Yojana (Gramin)",
+                        "allocation": 54500
+                    },
+                    {
+                        "name": "Pradhan Mantri Gram Sadak Yojana",
+                        "allocation": 12000
+                    }
+                ],
+                "policies": [
+                    "Housing for all",
+                    "Lakhpati Didi initiative"
+                ]
+            },
+            {
+                "name": "Chemicals and Fertilizers",
+                "allocation": 168379.00,
+                "description": "Subsidies to ensure availability of fertilizers to farmers at affordable prices.",
+                "schemes": [
+                    {
+                        "name": "Urea Subsidy",
+                        "allocation": 119000
+                    },
+                    {
+                        "name": "Nutrient Based Subsidy",
+                        "allocation": 45000
+                    }
+                ],
+                "policies": [
+                    "PM PRANAM to reduce chemical fertilizer use"
+                ]
+            },
+            {
+                "name": "Communications",
+                "allocation": 137254.00,
+                "description": "Expanding BharatNet and 5G infrastructure.",
+                "schemes": [
+                    {
+                        "name": "BharatNet",
+                        "allocation": 15000
+                    },
+                    {
+                        "name": "Telecom Technology Development Fund",
+                        "allocation": 500
+                    }
+                ],
+                "policies": [
+                    "Digital India expansion",
+                    "Production Linked Incentive (PLI) for Telecom"
+                ]
+            },
+            {
+                "name": "Energy",
+                "allocation": 76543.00,
+                "description": "Transition to green energy and strengthening power distribution.",
+                "schemes": [
+                    {
+                        "name": "Green Energy Corridor",
+                        "allocation": 600
+                    },
+                    {
+                        "name": "Solar Power (Grid)",
+                        "allocation": 10000
+                    },
+                    {
+                        "name": "Kisan Urja Suraksha (KUSUM)",
+                        "allocation": 2000
+                    }
+                ],
+                "policies": [
+                    "Rooftop solarization for 1 crore households",
+                    "Viability Gap Funding for offshore wind energy"
+                ]
+            },
+            {
+                "name": "Skill Development",
+                "allocation": 45000.00,
+                "description": "Upskilling youth for Industry 4.0 and global opportunities.",
+                "schemes": [
+                    {
+                        "name": "Pradhan Mantri Kaushal Vikas Yojana 4.0",
+                        "allocation": 4000
+                    },
+                    {
+                        "name": "National Apprenticeship Promotion Scheme",
+                        "allocation": 1500
+                    }
+                ],
+                "policies": [
+                    "Skill India Digital Platform",
+                    "Focus on AI, Robotics, and IoT skills"
+                ]
+            },
+            {
+                "name": "Science and Technology",
+                "allocation": 16603.00,
+                "description": "Fostering innovation, R&D, and space exploration.",
+                "schemes": [
+                    {
+                        "name": "Deep Ocean Mission",
+                        "allocation": 600
+                    },
+                    {
+                        "name": "National Quantum Mission",
+                        "allocation": 450
+                    }
+                ],
+                "policies": [
+                    "Anusandhan National Research Foundation",
+                    "New corpus for tech-savvy youth"
+                ]
+            }
+        ]
+    }
+]

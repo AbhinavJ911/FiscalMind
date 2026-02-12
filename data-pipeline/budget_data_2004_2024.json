@@ -1,0 +1,3128 @@
+[
+  {
+    "year": "2004-2005",
+    "total_expenditure": 731023,
+    "total_receipts": 521337,
+    "fiscal_deficit": 4.5,
+    "inflation_rate": 3.8,
+    "usd_inr_rate": 45.5,
+    "gdp_growth": 8.3,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 98419,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 37024,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 33304,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 52187,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 19169,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 44466,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 39568,
+        "description": "NREGA employment guarantee (₹39000 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 15565,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 5822,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 11730,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2005-2006",
+    "total_expenditure": 811435,
+    "total_receipts": 523770,
+    "fiscal_deficit": 4.7,
+    "inflation_rate": 4.4,
+    "usd_inr_rate": 44.1,
+    "gdp_growth": 9.3,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 108628,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 50078,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 35767,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 50919,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 19701,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 48787,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 35006,
+        "description": "NREGA employment guarantee (₹39000 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 20250,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 4078,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 18051,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2006-2007",
+    "total_expenditure": 900693,
+    "total_receipts": 624442,
+    "fiscal_deficit": 4.0,
+    "inflation_rate": 5.8,
+    "usd_inr_rate": 44.3,
+    "gdp_growth": 9.3,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 126603,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 51862,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 28137,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 71069,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 28338,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 54784,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 47795,
+        "description": "NREGA employment guarantee (₹39000 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 19681,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 7495,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 14904,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2007-2008",
+    "total_expenditure": 999769,
+    "total_receipts": 673975,
+    "fiscal_deficit": 5.0,
+    "inflation_rate": 6.4,
+    "usd_inr_rate": 41.3,
+    "gdp_growth": 9.8,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 141647,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 69439,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 47189,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 62256,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 38175,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 68935,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 45787,
+        "description": "NREGA employment guarantee (₹39000 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 29444,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 5283,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 16329,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2008-2009",
+    "total_expenditure": 1109744,
+    "total_receipts": 797585,
+    "fiscal_deficit": 4.2,
+    "inflation_rate": 8.3,
+    "usd_inr_rate": 43.5,
+    "gdp_growth": 3.1,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 146788,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 63066,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 53545,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 78171,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 36903,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 71172,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 46218,
+        "description": "NREGA employment guarantee (₹39000 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 23843,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 5770,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 22999,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2009-2010",
+    "total_expenditure": 1231816,
+    "total_receipts": 813415,
+    "fiscal_deficit": 5.6,
+    "inflation_rate": 10.9,
+    "usd_inr_rate": 48.4,
+    "gdp_growth": 8.5,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 178810,
+        "description": "Defence modernization with focus on border infrastructure, conventional force upgrade, and expanding military capabilities amid growing security concerns.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 85134,
+        "description": "Agricultural credit expansion, National Food Security Mission launch, soil health initiatives, and strengthening of Minimum Support Price (MSP) mechanism for farmers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 47317,
+        "description": "Sarva Shiksha Abhiy an expansion, mid-day meal scheme strengthening, teacher training programs, and focus on elementary education universalization.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 82453,
+        "description": "Track renewal and modernization, station upgrades, safety improvement projects, freight corridor development, and passenger amenity enhancement.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 29206,
+        "description": "National Rural Health Mission (NRHM) expansion, immunization programs, maternal and child health initiatives, infectious disease control, and rural hospital infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 82425,
+        "description": "National Highway Development Project (NHDP) Phase III-IV execution, rural road connectivity under PMGSY, road safety initiatives, and highway widening projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 53860,
+        "description": "Mahatma Gandhi NREGA employment guarantee (₹40100 crore), Bharat Nirman infrastructure program, Indira Awas Yojana housing, PMGSY rural roads, rural electrification expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 24718,
+        "description": "Rajiv Gandhi Grameen Vidyutikaran Yojana for rural electrification, power sector reforms, Ultra Mega Power Projects tendering, renewable energy promotion, grid strengthening.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 7214,
+        "description": "Chandrayaan-1 mission success, space program expansion, ISRO satellite launches, nuclear energy R&D, scientific research institution funding, technology incubation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 20042,
+        "description": "National e-Governance Plan (NeGP) rollout, broadband infrastructure expansion, telecom sector liberalization, IT exports growth promotion, cyber security framework development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2010-2011",
+    "total_expenditure": 1367316,
+    "total_receipts": 908742,
+    "fiscal_deficit": 4.5,
+    "inflation_rate": 12.0,
+    "usd_inr_rate": 45.7,
+    "gdp_growth": 8.5,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 183074,
+        "description": "Enhanced defence allocation for military modernization, acquisition of fighter aircraft, naval expansion, and strengthening border security infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 79766,
+        "description": "Food security focus with National Food Security Act preparation, MNREGA farm employment, enhanced agricultural credit, MSP increases for wheat and rice.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 58871,
+        "description": "Right to Education Act implementation, Rashtriya Madhyamik Shiksha Abhiyan for secondary education, ICT integration in schools, teacher recruitment drives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 83777,
+        "description": "Dedicated Freight Corridor construction progress, high-speed rail feasibility studies, station modernization, signaling system upgrades, and track doubling projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 54391,
+        "description": "NRHM continued expansion, free drugs and diagnostics rollout, National Urban Health Mission launch (2013), health infrastructure in underserved areas, polio eradication success.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 89505,
+        "description": "NHDP completion phases, BOT model highway projects, expressway development initiation, PMGSY Phase II for rural connectivity, and road quality improvement focus.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 59662,
+        "description": "MGNREGA allocation (₹40000 crore for 100-day employment guarantee),  food security preparation, Indira Awas Yojana (₹15,184 crore), rural sanitation programs.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 35899,
+        "description": "National Solar Mission launch, renewable energy capacity addition, coal supply linkages, power trading market development, distribution sector reforms.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 11209,
+        "description": "Mars Orbiter Mission (Mangalyaan) preparation and launch (2013), GSLV development, supercomputing initiatives, science education programs, research fellowships expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 24364,
+        "description": "Aadhar-based authentication system expansion, National Optical Fibre Network initiation, mobile penetration growth, IT parks development, digital signature adoption.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2011-2012",
+    "total_expenditure": 1517720,
+    "total_receipts": 1055532,
+    "fiscal_deficit": 4.1,
+    "inflation_rate": 8.9,
+    "usd_inr_rate": 46.7,
+    "gdp_growth": 6.6,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 201806,
+        "description": "Enhanced defence allocation for military modernization, acquisition of fighter aircraft, naval expansion, and strengthening border security infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 86259,
+        "description": "Food security focus with National Food Security Act preparation, MNREGA farm employment, enhanced agricultural credit, MSP increases for wheat and rice.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 71340,
+        "description": "Right to Education Act implementation, Rashtriya Madhyamik Shiksha Abhiyan for secondary education, ICT integration in schools, teacher recruitment drives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 105700,
+        "description": "Dedicated Freight Corridor construction progress, high-speed rail feasibility studies, station modernization, signaling system upgrades, and track doubling projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 48317,
+        "description": "NRHM continued expansion, free drugs and diagnostics rollout, National Urban Health Mission launch (2013), health infrastructure in underserved areas, polio eradication success.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 105664,
+        "description": "NHDP completion phases, BOT model highway projects, expressway development initiation, PMGSY Phase II for rural connectivity, and road quality improvement focus.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 80292,
+        "description": "MGNREGA allocation (₹40000 crore for 100-day employment guarantee),  food security preparation, Indira Awas Yojana (₹15,184 crore), rural sanitation programs.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 36132,
+        "description": "National Solar Mission launch, renewable energy capacity addition, coal supply linkages, power trading market development, distribution sector reforms.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 10796,
+        "description": "Mars Orbiter Mission (Mangalyaan) preparation and launch (2013), GSLV development, supercomputing initiatives, science education programs, research fellowships expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 34300,
+        "description": "Aadhar-based authentication system expansion, National Optical Fibre Network initiation, mobile penetration growth, IT parks development, digital signature adoption.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2012-2013",
+    "total_expenditure": 1684670,
+    "total_receipts": 1193208,
+    "fiscal_deficit": 4.2,
+    "inflation_rate": 9.3,
+    "usd_inr_rate": 54.4,
+    "gdp_growth": 5.5,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 241583,
+        "description": "Enhanced defence allocation for military modernization, acquisition of fighter aircraft, naval expansion, and strengthening border security infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 89852,
+        "description": "Food security focus with National Food Security Act preparation, MNREGA farm employment, enhanced agricultural credit, MSP increases for wheat and rice.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 58761,
+        "description": "Right to Education Act implementation, Rashtriya Madhyamik Shiksha Abhiyan for secondary education, ICT integration in schools, teacher recruitment drives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 106683,
+        "description": "Dedicated Freight Corridor construction progress, high-speed rail feasibility studies, station modernization, signaling system upgrades, and track doubling projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 56418,
+        "description": "NRHM continued expansion, free drugs and diagnostics rollout, National Urban Health Mission launch (2013), health infrastructure in underserved areas, polio eradication success.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 106035,
+        "description": "NHDP completion phases, BOT model highway projects, expressway development initiation, PMGSY Phase II for rural connectivity, and road quality improvement focus.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 75102,
+        "description": "MGNREGA allocation (₹33000 crore for 100-day employment guarantee),  food security preparation, Indira Awas Yojana (₹15,184 crore), rural sanitation programs.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 37935,
+        "description": "National Solar Mission launch, renewable energy capacity addition, coal supply linkages, power trading market development, distribution sector reforms.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 13044,
+        "description": "Mars Orbiter Mission (Mangalyaan) preparation and launch (2013), GSLV development, supercomputing initiatives, science education programs, research fellowships expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 25342,
+        "description": "Aadhar-based authentication system expansion, National Optical Fibre Network initiation, mobile penetration growth, IT parks development, digital signature adoption.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2013-2014",
+    "total_expenditure": 1869983,
+    "total_receipts": 1298436,
+    "fiscal_deficit": 4.8,
+    "inflation_rate": 10.9,
+    "usd_inr_rate": 58.6,
+    "gdp_growth": 6.4,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 262249,
+        "description": "Enhanced defence allocation for military modernization, acquisition of fighter aircraft, naval expansion, and strengthening border security infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 101212,
+        "description": "Food security focus with National Food Security Act preparation, MNREGA farm employment, enhanced agricultural credit, MSP increases for wheat and rice.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 56418,
+        "description": "Right to Education Act implementation, Rashtriya Madhyamik Shiksha Abhiyan for secondary education, ICT integration in schools, teacher recruitment drives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 132300,
+        "description": "Dedicated Freight Corridor construction progress, high-speed rail feasibility studies, station modernization, signaling system upgrades, and track doubling projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 68413,
+        "description": "NRHM continued expansion, free drugs and diagnostics rollout, National Urban Health Mission launch (2013), health infrastructure in underserved areas, polio eradication success.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 125250,
+        "description": "NHDP completion phases, BOT model highway projects, expressway development initiation, PMGSY Phase II for rural connectivity, and road quality improvement focus.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 93499,
+        "description": "MGNREGA allocation (₹33000 crore for 100-day employment guarantee),  National Food Security Act 2013 implementation, Indira Awas Yojana (₹15,184 crore), rural sanitation programs.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 44389,
+        "description": "National Solar Mission launch, renewable energy capacity addition, coal supply linkages, power trading market development, distribution sector reforms.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 16407,
+        "description": "Mars Orbiter Mission (Mangalyaan) preparation and launch (2013), GSLV development, supercomputing initiatives, science education programs, research fellowships expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 35684,
+        "description": "Aadhar-based authentication system expansion, National Optical Fibre Network initiation, mobile penetration growth, IT parks development, digital signature adoption.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2014-2015",
+    "total_expenditure": 2075682,
+    "total_receipts": 1343607,
+    "fiscal_deficit": 4.2,
+    "inflation_rate": 6.4,
+    "usd_inr_rate": 61.0,
+    "gdp_growth": 7.4,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 284878,
+        "description": "Enhanced defence allocation for military modernization, acquisition of fighter aircraft, naval expansion, and strengthening border security infrastructure.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 120247,
+        "description": "Food security focus with National Food Security Act preparation, MNREGA farm employment, enhanced agricultural credit, MSP increases for wheat and rice.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 65383,
+        "description": "Right to Education Act implementation, Rashtriya Madhyamik Shiksha Abhiyan for secondary education, ICT integration in schools, teacher recruitment drives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 141005,
+        "description": "Dedicated Freight Corridor construction progress, high-speed rail feasibility studies, station modernization, signaling system upgrades, and track doubling projects.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 53660,
+        "description": "NRHM continued expansion, free drugs and diagnostics rollout, National Urban Health Mission launch (2013), health infrastructure in underserved areas, polio eradication success.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 135526,
+        "description": "NHDP completion phases, BOT model highway projects, expressway development initiation, PMGSY Phase II for rural connectivity, and road quality improvement focus.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 124067,
+        "description": "MGNREGA allocation (₹33000 crore for 100-day employment guarantee),  food security preparation, Indira Awas Yojana (₹15,184 crore), rural sanitation programs.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 45527,
+        "description": "National Solar Mission launch, renewable energy capacity addition, coal supply linkages, power trading market development, distribution sector reforms.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 15074,
+        "description": "Mars Orbiter Mission (Mangalyaan) preparation and launch (2013), GSLV development, supercomputing initiatives, science education programs, research fellowships expansion.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 47969,
+        "description": "Aadhar-based authentication system expansion, National Optical Fibre Network initiation, mobile penetration growth, IT parks development, digital signature adoption.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2015-2016",
+    "total_expenditure": 2304007,
+    "total_receipts": 1572532,
+    "fiscal_deficit": 5.6,
+    "inflation_rate": 4.9,
+    "usd_inr_rate": 64.2,
+    "gdp_growth": 8.0,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 302630,
+        "description": "Make in India push in defence sector, indigenization initiatives, acquisition of modern platforms, and strategic partnerships with domestic manufacturers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 118107,
+        "description": "Soil Health Card scheme nationwide rollout, Pradhan Mantri Fasal Bima Yojana (crop insurance), irrigation expansion under PMKSY, and digital agriculture initiatives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 114801,
+        "description": "Digital literacy programs, Skill India mission integration, higher education quality improvement, scholarship expansion for SC/ST students, and infrastructure development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 149175,
+        "description": "Station redevelopment under PPP model, WiFi installation at stations, Track Access Charge system introduction, Vande Bharat Express development, electrification acceleration.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 76043,
+        "description": "Ayushman Bharat scheme launch (2018) - world's largest health insurance with ₹5 lakh coverage for 10 crore families, Health and Wellness Centers establishment.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 139690,
+        "description": "Bharatmala Pariyojana launch for highway corridors, Sagarmala for port connectivity, metro rail expansion in Tier-II cities, FASTag electronic toll implementation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 103796,
+        "description": "Rural housing schemes, Swachh Bharat Mission-Gramin (toilet construction), PMGSY road connectivity, rural electrification (Saubhagya scheme), MGNREGA continued support.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 63925,
+        "description": "UDAY scheme for discoms financial health, 24x7 Power for All target, LED bulb distribution (UJALA), renewable energy auction mechanism, solar park development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 12932,
+        "description": "Chandrayaan-2 mission preparation, GSLV Mark III development, Gagany aan human spaceflight program initiation, Start-up India for science innovation, Atal Innovation Mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 39129,
+        "description": "Digital India program (₹3,073 crore in 2018), BharatNet fiber rollout to 2.5 lakh panchayats, Jan Dhan-Aadhar-Mobile (JAM) trinity, WiFi hotspots in rural areas, digital literacy mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2016-2017",
+    "total_expenditure": 2557447,
+    "total_receipts": 1821962,
+    "fiscal_deficit": 5.4,
+    "inflation_rate": 4.9,
+    "usd_inr_rate": 67.2,
+    "gdp_growth": 8.3,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 337154,
+        "description": "Make in India push in defence sector, indigenization initiatives, acquisition of modern platforms, and strategic partnerships with domestic manufacturers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 143094,
+        "description": "Soil Health Card scheme nationwide rollout, Pradhan Mantri Fasal Bima Yojana (crop insurance), irrigation expansion under PMKSY, and digital agriculture initiatives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 106604,
+        "description": "Digital literacy programs, Skill India mission integration, higher education quality improvement, scholarship expansion for SC/ST students, and infrastructure development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 159718,
+        "description": "Station redevelopment under PPP model, WiFi installation at stations, Track Access Charge system introduction, Vande Bharat Express development, electrification acceleration.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 82717,
+        "description": "Ayushman Bharat scheme launch (2018) - world's largest health insurance with ₹5 lakh coverage for 10 crore families, Health and Wellness Centers establishment.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 174465,
+        "description": "Bharatmala Pariyojana launch for highway corridors, Sagarmala for port connectivity, metro rail expansion in Tier-II cities, FASTag electronic toll implementation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 115574,
+        "description": "PM Awas Yojana-Gramin replacing Indira Awas Yojana, Swachh Bharat Mission-Gramin (toilet construction), PMGSY road connectivity, rural electrification (Saubhagya scheme), MGNREGA continued support.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 75529,
+        "description": "UDAY scheme for discoms financial health, 24x7 Power for All target, LED bulb distribution (UJALA), renewable energy auction mechanism, solar park development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 18958,
+        "description": "Chandrayaan-2 mission preparation, GSLV Mark III development, Gagany aan human spaceflight program initiation, Start-up India for science innovation, Atal Innovation Mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 49475,
+        "description": "Digital India program (₹3,073 crore in 2018), BharatNet fiber rollout to 2.5 lakh panchayats, Jan Dhan-Aadhar-Mobile (JAM) trinity, WiFi hotspots in rural areas, digital literacy mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2017-2018",
+    "total_expenditure": 2838767,
+    "total_receipts": 1954446,
+    "fiscal_deficit": 5.6,
+    "inflation_rate": 3.6,
+    "usd_inr_rate": 65.1,
+    "gdp_growth": 7.2,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 344152,
+        "description": "Make in India push in defence sector, indigenization initiatives, acquisition of modern platforms, and strategic partnerships with domestic manufacturers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 184827,
+        "description": "Soil Health Card scheme nationwide rollout, Pradhan Mantri Fasal Bima Yojana (crop insurance), irrigation expansion under PMKSY, and digital agriculture initiatives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 88379,
+        "description": "Digital literacy programs, Skill India mission integration, higher education quality improvement, scholarship expansion for SC/ST students, and infrastructure development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 174069,
+        "description": "Station redevelopment under PPP model, WiFi installation at stations, Track Access Charge system introduction, Vande Bharat Express development, electrification acceleration.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 67294,
+        "description": "Ayushman Bharat scheme launch (2018) - world's largest health insurance with ₹5 lakh coverage for 10 crore families, Health and Wellness Centers establishment.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 176123,
+        "description": "Bharatmala Pariyojana launch for highway corridors, Sagarmala for port connectivity, metro rail expansion in Tier-II cities, FASTag electronic toll implementation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 162128,
+        "description": "PM Awas Yojana-Gramin replacing Indira Awas Yojana, Swachh Bharat Mission-Gramin (toilet construction), PMGSY road connectivity, rural electrification (Saubhagya scheme), MGNREGA continued support.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 70000,
+        "description": "UDAY scheme for discoms financial health, 24x7 Power for All target, LED bulb distribution (UJALA), renewable energy auction mechanism, solar park development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 21737,
+        "description": "Chandrayaan-2 mission preparation, GSLV Mark III development, Gagany aan human spaceflight program initiation, Start-up India for science innovation, Atal Innovation Mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 45968,
+        "description": "Digital India program (₹3,073 crore in 2018), BharatNet fiber rollout to 2.5 lakh panchayats, Jan Dhan-Aadhar-Mobile (JAM) trinity, WiFi hotspots in rural areas, digital literacy mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2018-2019",
+    "total_expenditure": 3151031,
+    "total_receipts": 2067653,
+    "fiscal_deficit": 5.4,
+    "inflation_rate": 3.4,
+    "usd_inr_rate": 68.4,
+    "gdp_growth": 6.5,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 379395,
+        "description": "Make in India push in defence sector, indigenization initiatives, acquisition of modern platforms, and strategic partnerships with domestic manufacturers.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 170202,
+        "description": "Soil Health Card scheme nationwide rollout, Pradhan Mantri Fasal Bima Yojana (crop insurance), irrigation expansion under PMKSY, and digital agriculture initiatives.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 152377,
+        "description": "Digital literacy programs, Skill India mission integration, higher education quality improvement, scholarship expansion for SC/ST students, and infrastructure development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 231240,
+        "description": "Station redevelopment under PPP model, WiFi installation at stations, Track Access Charge system introduction, Vande Bharat Express development, electrification acceleration.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 105504,
+        "description": "Ayushman Bharat scheme launch (2018) - world's largest health insurance with ₹5 lakh coverage for 10 crore families, Health and Wellness Centers establishment.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 199409,
+        "description": "Bharatmala Pariyojana launch for highway corridors, Sagarmala for port connectivity, metro rail expansion in Tier-II cities, FASTag electronic toll implementation.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 148520,
+        "description": "PM Awas Yojana-Gramin replacing Indira Awas Yojana, Swachh Bharat Mission-Gramin (toilet construction), PMGSY road connectivity, rural electrification (Saubhagya scheme), MGNREGA continued support.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 85320,
+        "description": "UDAY scheme for discoms financial health, 24x7 Power for All target, LED bulb distribution (UJALA), renewable energy auction mechanism, solar park development.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 26117,
+        "description": "Chandrayaan-2 mission preparation, GSLV Mark III development, Gagany aan human spaceflight program initiation, Start-up India for science innovation, Atal Innovation Mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 74255,
+        "description": "Digital India program (₹3,073 crore in 2018), BharatNet fiber rollout to 2.5 lakh panchayats, Jan Dhan-Aadhar-Mobile (JAM) trinity, WiFi hotspots in rural areas, digital literacy mission.",
+        "schemes": [],
+        "policies": [],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2019-2020",
+    "total_expenditure": 2786349,
+    "total_receipts": 1977693,
+    "fiscal_deficit": 703760,
+    "inflation_rate": 4.8,
+    "usd_inr_rate": 74.53,
+    "gdp_growth": 4.2,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 305296,
+        "description": "Defence budget focused on indigenous manufacturing under 'Make in India', covering capital acquisition, revenue expenditure, and defence pensions. Emphasis on modernization and border infrastructure.",
+        "schemes": [
+          {
+            "name": "Capital Outlay",
+            "allocation": 116113,
+            "description": "Modernization of armed forces including acquisition of fighter jets, naval vessels, submarines, and artillery systems."
+          },
+          {
+            "name": "Defence Pensions",
+            "allocation": 112079,
+            "description": "Pension payments for retired defence personnel including OROP (One Rank One Pension) implementation."
+          },
+          {
+            "name": "Revenue Expenditure",
+            "allocation": 77104,
+            "description": "Salaries, maintenance, training, and operational expenses of armed forces."
+          }
+        ],
+        "policies": [
+          "Defence Industrial Corridors established in Tamil Nadu and Uttar Pradesh.",
+          "FDI liberalization in defence sector up to 74% under automatic route.",
+          "Strategic Partnership Model for indigenous defence manufacturing.",
+          "Defence Procurement Procedure 2016 implementation for transparency."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 130485,
+        "description": "Historic allocation for agriculture sector. Major focus on direct income transfer to farmers through PM-KISAN, providing ₹6,000 annually to small and marginal farmers. Continued emphasis on doubling farmers' income by 2022.",
+        "schemes": [
+          {
+            "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+            "allocation": 75000,
+            "description": "Direct income support of ₹6,000 per year to small and marginal farmer families through three equal installments."
+          },
+          {
+            "name": "Pradhan Mantri Fasal Bima Yojana",
+            "allocation": 14000,
+            "description": "Crop insurance scheme providing insurance coverage and financial support to farmers in case of crop failure."
+          },
+          {
+            "name": "Interest Subvention Scheme",
+            "allocation": 15000,
+            "description": "Short-term crop loans up to ₹3 lakh at subsidized interest rate of 7%, with additional 3% subvention for timely repayment."
+          },
+          {
+            "name": "Pradhan Mantri Krishi Sinchai Yojana",
+            "allocation": 12585,
+            "description": "Expanding irrigation coverage with focus on 'Per Drop More Crop' through micro-irrigation."
+          },
+          {
+            "name": "Rashtriya Krishi Vikas Yojana (RKVY)",
+            "allocation": 3745,
+            "description": "State-level agriculture development planning and implementation support."
+          }
+        ],
+        "policies": [
+          "MSP fixed at minimum 1.5 times the production cost for all Kharif and Rabi crops.",
+          "Formation of 10,000 new Farmer Producer Organizations (FPOs) over 5 years.",
+          "Agricultural credit target set at ₹13.5 lakh crore for FY 2019-20.",
+          "Zero Budget Natural Farming promotion in Andhra Pradesh and other states.",
+          "E-NAM (National Agriculture Market) expansion to 585 mandis for unified agricultural market."
+        ],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 93848,
+        "description": "Total allocation to Ministry of Human Resource Development covering school education, higher education, and skill development. Focus on improving quality, access, and equity in education.",
+        "schemes": [
+          {
+            "name": "Samagra Shiksha Abhiyan",
+            "allocation": 38157,
+            "description": "Integrated scheme for school education from pre-school to Class 12, subsuming earlier schemes like SSA, RMSA, and Teacher Training."
+          },
+          {
+            "name": "Mid-Day Meal Scheme",
+            "allocation": 11000,
+            "description": "Providing nutritious meals to students in government schools to improve enrollment and attendance."
+          },
+          {
+            "name": "Higher Education Financing",
+            "allocation": 37461,
+            "description": "Support to central universities, IITs, IIMs, NITs, IISERs, and other institutions of higher learning."
+          },
+          {
+            "name": "Scholarship Programs (SC/ST/OBC/Minority)",
+            "allocation": 3800,
+            "description": "Pre-matric and post-matric scholarships for students from disadvantaged communities."
+          },
+          {
+            "name": "PM Research Fellows (PMRF) Scheme",
+            "allocation": 210,
+            "description": "Fellowships for bright students pursuing PhD in IITs and IIScs with ₹70,000-80,000/month stipend."
+          }
+        ],
+        "policies": [
+          "Draft National Education Policy under consultation for comprehensive education reforms.",
+          "Higher Education Financing Agency (HEFA) mobilizing ₹1 lakh crore for infrastructure.",
+          "Twenty institutions to be developed as 'Institutions of Eminence' (10 public, 10 private).",
+          "SWAYAM platform for  online courses with credit transfer facility.",
+          "Study Webs of Active-Learning for Young Aspiring Minds (SWAYAM) expansion.",
+          "Global Initiative of Academic Networks (GIAN) for international faculty lectures."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 654105,
+        "description": "Major infrastructure push for railway modernization, station redevelopment, track electrification, and introduction of Vande Bharat Express trains. Focus on safety and passenger amenities.",
+        "schemes": [
+          {
+            "name": "Capital Expenditure",
+            "allocation": 161010,
+            "description": "Infrastructure development, new railway lines, gauge conversion, track doubling, and electrification projects."
+          },
+          {
+            "name": "Dedicated Freight Corridors",
+            "allocation": 12500,
+            "description": "Eastern and Western Dedicated Freight Corridors for faster movement of freight trains."
+          },
+          {
+            "name": "Station Redevelopment",
+            "allocation": 50000,
+            "description": "Redevelopment of 400 railway stations through PPP model with world-class amenities."
+          },
+          {
+            "name": "Railway Electrification",
+            "allocation": 12000,
+            "description": "Electrification of broad gauge routes targeting 100% electrification by 2023."
+          },
+          {
+            "name": "Railway Safety Works",
+            "allocation": 20800,
+            "description": "Track renewal, bridge rehabilitation, and elimination of unmanned level crossings."
+          }
+        ],
+        "policies": [
+          "100% railway electrification target by 2023 for reducing oil import bill.",
+          "PPP model for station redevelopment with monetization of railway land.",
+          "Introduction of Vande Bharat Express (Train 18) - indigenously manufactured semi-high speed trains.",
+          "WiFi installation completed at 6,000 major railway stations.",
+          "Modern Coach Factory in Rae Bareli producing LHB coaches."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 62659,
+        "description": "Substantial increase for health sector. Expansion of Ayushman Bharat scheme providing health insurance to 50 crore beneficiaries. Strengthening of primary health infrastructure.",
+        "schemes": [
+          {
+            "name": "Ayushman Bharat - PM Jan Arogya Yojana (AB-PMJAY)",
+            "allocation": 6400,
+            "description": "World's largest health insurance scheme providing coverage of ₹5 lakh per family per year to 10.74 crore poor families."
+          },
+          {
+            "name": "Ayushman Bharat - Health and Wellness Centres",
+            "allocation": 1700,
+            "description": "Transforming 1.5 lakh sub-centres and PHCs into Health and Wellness Centres for comprehensive primary healthcare."
+          },
+          {
+            "name": "National Health Mission",
+            "allocation": 32995,
+            "description": "Umbrella scheme covering NRHM and NUHM for strengthening health systems in rural and urban areas."
+          },
+          {
+            "name": "Pradhan Mantri Jan Aushadhi Kendras",
+            "allocation": 750,
+            "description": "Chain of 6,000+ stores providing generic medicines at affordable prices (50-90% cheaper)."
+          },
+          {
+            "name": "AIIMS Expansion",
+            "allocation": 4500,
+            "description": "Establishing 6 new AIIMS in Rajasthan, Tamil Nadu, Telangana, Himachal Pradesh, Punjab, and Assam."
+          }
+        ],
+        "policies": [
+          "National Digital Health Mission pilot in six Union Territories creating unique health IDs.",
+          "Medical Device Parks in Andhra Pradesh, Tamil Nadu, Kerala, and Madhya Pradesh.",
+          "Expansion of AIIMS to 22 locations across India for tertiary healthcare.",
+          "Rollout of AB-PMJAY covering 50 crore beneficiaries (40% of population).",
+          "Ayurveda, Yoga, Naturopathy promotion under AYUSH ministry."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 183398,
+        "description": "Major allocation for road infrastructure development under Bharatmala Pariyojana. Includes highway construction, rural road connectivity under PMGSY, and port connectivity.",
+        "schemes": [
+          {
+            "name": "Bharatmala Pariyojana - Phase I",
+            "allocation": 108230,
+            "description": "Construction of 34,800 km of national highway corridors including economic corridors, Border and international connectivity roads."
+          },
+          {
+            "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+            "allocation": 19000,
+            "description": "All-weather road connectivity to unconnected habitations with population of 250+ (100+ in hilly/tribal areas)."
+          },
+          {
+            "name": "Sagarmala Programme",
+            "allocation": 6000,
+            "description": "Port-led development with port modernization and connectivity, coastal community development."
+          },
+          {
+            "name": "NHAI Projects",
+            "allocation": 50168,
+            "description": "National Highway development, widening, and strengthening projects across the country."
+          }
+        ],
+        "policies": [
+          "FASTag made mandatory for all vehicles from December 2019 for seamless toll collection.",
+          "Highway construction target of 30-40 km per day achieved.",
+          "Monetization of national highways through ToT (Toll-Operate-Transfer) model.",
+          "Green Highways Policy for plantation along highways.",
+          "Development of 35 multi-modal logistics parks."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 122780,
+        "description": "Comprehensive rural development through MGNREGA employment guarantee, rural housing under PM Awas Yojana-Gramin, and Swachh Bharat Mission achieving open defecation free status.",
+        "schemes": [
+          {
+            "name": "Mahatma Gandhi NREGA",
+            "allocation": 60000,
+            "description": "Providing 100 days of guaranteed wage employment to rural households, creating durable assets."
+          },
+          {
+            "name": "PM Awas Yojana-Gramin",
+            "allocation": 19000,
+            "description": "Construction of pucca houses with basic amenities for rural poor and homeless families."
+          },
+          {
+            "name": "Swachh Bharat Mission-Gramin",
+            "allocation": 9850,
+            "description": "Achieving Open Defecation Free (ODF) status through construction of household and community toilets."
+          },
+          {
+            "name": "National Rural Livelihood Mission (NRLM)",
+            "allocation": 9024,
+            "description": "Mobilizing rural poor women into SHGs for livelihood generation and financial inclusion."
+          },
+          {
+            "name": "Shyama Prasad Mukherji RURBAN Mission",
+            "allocation": 750,
+            "description": "Development of 300 rural growth clusters with urban amenities."
+          }
+        ],
+        "policies": [
+          "Jal Jeevan Mission announced to provide piped water supply (Har Ghar Jal) to all rural households by 2024.",
+          "Aspirational Districts Programme covering 112 most backward districts for holistic development.",
+          "RURBAN Mission developing rural-urban continuum clusters.",
+          "Deen Dayal Upadhyay Grameen Kaushalya Yojana for rural youth skill development.",
+          "SBM-Gramin achieved ODF status for entire country on October 2, 2019."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 73000,
+        "description": "Focus on renewable energy expansion, coal sector reforms, and improving distribution company (DISCOM) financial health through UDAY scheme. Target of 175 GW renewable energy by 2022.",
+        "schemes": [
+          {
+            "name": "UDAY (Ujwal DISCOM Assurance Yojana)",
+            "allocation": 25000,
+            "description": "Financial restructuring of state DISCOMs by taking over 75% of their debt for operational efficiency."
+          },
+          {
+            "name": "PM-KUSUM (Kisan Urja Suraksha evam Utthan Mahabhiyan)",
+            "allocation": 8000,
+            "description": "Installation of 2 million solar pumps and grid-connected solar power plants on barren land."
+          },
+          {
+            "name": "UJALA (LED Bulb Distribution)",
+            "allocation": 3000,
+            "description": "Distribution of LED bulbs at subsidized rates achieving 350 million LED bulb penetration."
+          },
+          {
+            "name": "Solar Parks",
+            "allocation": 7500,
+            "description": "Development of 50 solar parks with 37.5 GW capacity across states."
+          },
+          {
+            "name": "Deendayal Upadhyaya Gram Jyoti Yojana",
+            "allocation": 5500,
+            "description": "Feeder separation and distribution infrastructure strengthening in rural areas."
+          }
+        ],
+        "policies": [
+          "Renewable energy target of 175 GW by 2022 (100 GW solar, 60 GW wind, 10 GW bio-power, 5 GW small hydro).",
+          "24x7 Power for All villages achieved across India.",
+          "Commercial mining in coal sector opened to private and foreign companies.",
+          "Smart Grid development for efficient electricity distribution and demand management.",
+          "One Nation One Grid initiative for integrated power transmission network."
+        ],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 14831,
+        "description": "Support for space missions including Chandrayaan-2, Gaganyaan human spaceflight program, and science research institutions. Focus on innovation and technology development.",
+        "schemes": [
+          {
+            "name": "Chandrayaan-2 Mission",
+            "allocation": 978,
+            "description": "Moon mission with orbiter, lander (Vikram), and rover (Pragyan) for lunar south pole exploration."
+          },
+          {
+            "name": "Gaganyaan Programme",
+            "allocation": 1200,
+            "description": "India's first human spaceflight program targeting to send 3 astronauts to space by 2022."
+          },
+          {
+            "name": "Atal Innovation Mission",
+            "allocation": 100,
+            "description": "Establishing Atal Tinkering Labs in 5,000 schools and Atal Incubation Centres for innovation."
+          },
+          {
+            "name": "INSPIRE Programme",
+            "allocation": 375,
+            "description": "Innovation in Science Pursuit for Inspired Research - scholarships and fellowships for young scientists."
+          },
+          {
+            "name": "National Supercomputing Mission",
+            "allocation": 650,
+            "description": "Creating grid of 73 supercomputers including PARAM Shivay and PARAM Shakti."
+          }
+        ],
+        "policies": [
+          "Deep Ocean Mission proposed for exploration of deep sea resources and biodiversity.",
+          "National Mission on Quantum Technologies & Applications with ₹8,000 crore outlay.",
+          "Private sector participation in space sector through IN-SPACe (Indian National Space Promotion and Authorization Center).",
+          "Technology Development Board funding innovations in defence, healthcare, and agriculture.",
+          "New Space India Limited (NSIL) formed as commercial arm of ISRO."
+        ],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 84397,
+        "description": "Digital India programme expansion with BharatNet connecting gram panchayats, Common Service Centres, and digital literacy initiatives. Focus on electronics manufacturing.",
+        "schemes": [
+          {
+            "name": "BharatNet",
+            "allocation": 34000,
+            "description": "Optical fiber network to connect all 2.5 lakh gram panchayats for high-speed broadband."
+          },
+          {
+            "name": "Digital India Programme",
+            "allocation": 3073,
+            "description": "Umbrella programme for digital infrastructure, governance, and services including DigiLocker, e-Sign, UMANG app."
+          },
+          {
+            "name": "Common Service Centres (CSC)",
+            "allocation": 500,
+            "description": "Expanding 3.5 lakh CSCs as access points for digital services in rural and remote areas."
+          },
+          {
+            "name": "Pradhan Mantri Gramin Digital Saksharta Abhiyan (PMGDISHA)",
+            "allocation": 245,
+            "description": "Making 6 crore rural citizens digitally literate covering one person per household."
+          },
+          {
+            "name": "Electronics Manufacturing",
+            "allocation": 4500,
+            "description": "Modified Special Incentive Package Scheme (M-SIPS) and Electronics Manufacturing Clusters (EMC) scheme."
+          }
+        ],
+        "policies": [
+          "National Electronics Policy targeting $400 billion electronics manufacturing by 2025.",
+          "Production Linked Incentive (PLI) scheme initiation for mobile phone and electronics manufacturing.",
+          "5G spectrum auction and testing trials by telecom operators.",
+          "Unified Telecom License regime simplifying licensing framework.",
+          "National AI Strategy (NITI Aayog) for AI integration across sectors.",
+          "Aadhaar authentication crossed 35 billion, world's largest biometric ID system."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2020-2021",
+    "total_expenditure": 3509836,
+    "total_receipts": 1691645,
+    "fiscal_deficit": 9.2,
+    "inflation_rate": 6.2,
+    "usd_inr_rate": 74.3,
+    "gdp_growth": -6.6,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 523330,
+        "description": "Actual expenditure increased due to border tensions. Emergency procurements and infrastructure development along borders.",
+        "schemes": [
+          {
+            "name": "Capital Outlay",
+            "allocation": 139303,
+            "description": "Modernization of armed forces."
+          },
+          {
+            "name": "Defence Pensions",
+            "allocation": 133825,
+            "description": "Pensions for retired defence personnel."
+          }
+        ],
+        "policies": [
+          "FDI limit in Defence production raised from 49% to 74% under automatic route.",
+          "Negative import list for weapons notification."
+        ],
+        "sourceUrl": "https://mod.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 115856,
+        "description": "Focus on doubling farmers' income by 2022. 16-point action plan announced.",
+        "schemes": [
+          {
+            "name": "PM-KISAN",
+            "allocation": 65000,
+            "description": "Income support for farmers."
+          },
+          {
+            "name": "Pradhan Mantri Fasal Bima Yojana",
+            "allocation": 15695,
+            "description": "Crop insurance scheme."
+          },
+          {
+            "name": "Interest Subvention",
+            "allocation": 19838,
+            "description": "Subsidized loans."
+          }
+        ],
+        "policies": [
+          "Agricultural credit target set at ₹15 lakh crore.",
+          "Kisan Rail and Krishi Udaan schemes launched for cold supply chain."
+        ],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 197377,
+        "description": "Massive increase in allocation due to MGNREGA demand during COVID-19 pandemic migrant crisis.",
+        "schemes": [
+          {
+            "name": "MGNREGA",
+            "allocation": 111500,
+            "description": "Highest ever allocation to provide employment to returning migrants."
+          },
+          {
+            "name": "Pradhan Mantri Awas Yojana (Gramin)",
+            "allocation": 19500,
+            "description": "Rural housing."
+          },
+          {
+            "name": "Pradhan Mantri Gram Sadak Yojana",
+            "allocation": 13700,
+            "description": "Rural roads."
+          }
+        ],
+        "policies": [
+          "Garib Kalyan Rojgar Abhiyaan launched for migrant workers.",
+          "Increased allocation for MGNREGA by ₹40,000 crore over budget estimate."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 161042,
+        "description": "Capital expenditure focused on dedicated freight corridors and electrification.",
+        "schemes": [
+          {
+            "name": "Capital Expenditure",
+            "allocation": 70250,
+            "description": "Budgetary support for capital projects."
+          }
+        ],
+        "policies": [
+          "Setting up a 'Kisan Rail' through PPP arrangements.",
+          "Plan to corporatize at least one major port."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 81772,
+        "description": "Expenditure spiked due to COVID-19 emergency response and preparedness.",
+        "schemes": [
+          {
+            "name": "National Health Mission",
+            "allocation": 35551,
+            "description": "Core health scheme."
+          },
+          {
+            "name": "PM Jan Arogya Yojana",
+            "allocation": 3200,
+            "description": "Health insurance."
+          },
+          {
+            "name": "COVID-19 Emergency Response",
+            "allocation": 14217,
+            "description": "Special fund for battling the pandemic."
+          }
+        ],
+        "policies": [
+          "PM Atmanirbhar Swasth Bharat Yojana announced.",
+          "Mission Indradhanush expanded."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 85089,
+        "description": "New National Education Policy (NEP) 2020 approved.",
+        "schemes": [
+          {
+            "name": "Samagra Shiksha",
+            "allocation": 27957,
+            "description": "School education."
+          },
+          {
+            "name": "Mid-Day Meal Scheme",
+            "allocation": 12900,
+            "description": "School nutrition."
+          }
+        ],
+        "policies": [
+          "New National Education Policy 2020 introduced.",
+          "IND-SAT exam for Asian and African students announced."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 102017,
+        "description": "Continued focus on highway construction despite pandemic lockdowns.",
+        "schemes": [
+          {
+            "name": "NHAI Investment",
+            "allocation": 46000,
+            "description": "Funding for approved highway projects."
+          },
+          {
+            "name": "Road Works",
+            "allocation": 44415,
+            "description": "Maintenance and construction."
+          }
+        ],
+        "policies": [
+          "Accelerated development of highways.",
+          "Monetization of 12 lots of highway bundles proposed."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 50000,
+        "description": "BharatNet expansion to 1 lakh gram panchayats.",
+        "schemes": [
+          {
+            "name": "BharatNet",
+            "allocation": 6000,
+            "description": "Broadband connectivity."
+          }
+        ],
+        "policies": [
+          "Policy for private sector to check build Data Centre parks.",
+          "Use of AI and ML in GST and Income Tax administration."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 22000,
+        "description": "Expansion of PM-KUSUM and closing of old thermal plants.",
+        "schemes": [
+          {
+            "name": "PM-KUSUM",
+            "allocation": 1000,
+            "description": "Solar pumps for farmers."
+          }
+        ],
+        "policies": [
+          "Expansion of national gas grid to 27,000 km.",
+          "Reforms in DISCOMs (Distribution Companies)."
+        ],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Social Welfare",
+        "allocation": 138700,
+        "description": "Allocations for SC, ST, OBC welfare and senior citizens.",
+        "schemes": [
+          {
+            "name": "Welfare of SCs",
+            "allocation": 85000,
+            "description": "Schemes for Scheduled Castes."
+          },
+          {
+            "name": "Welfare of STs",
+            "allocation": 53700,
+            "description": "Schemes for Scheduled Tribes."
+          }
+        ],
+        "policies": [
+          "Enhanced allocation for senior citizens and Divyangjan.",
+          "Task force appointed to examine age of marriage for girls."
+        ],
+        "sourceUrl": "https://socialjustice.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2021-2022",
+    "total_expenditure": 3770000,
+    "total_receipts": 2172000,
+    "fiscal_deficit": 6.7,
+    "inflation_rate": 5.5,
+    "usd_inr_rate": 74.5,
+    "gdp_growth": 8.7,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 478196,
+        "description": "Capital outlay increased by 18.75%. Focus on modernization and domestic procurement (Make in India).",
+        "schemes": [
+          {
+            "name": "Capital Outlay",
+            "allocation": 135060,
+            "description": "Purchase of new weapons, aircraft, warships and other military hardware."
+          },
+          {
+            "name": "Defence Pensions",
+            "allocation": 115000,
+            "description": "Pensions for retired defence personnel."
+          }
+        ],
+        "policies": [
+          "Ban on import of 101 weapons/platforms to boost domestic defence manufacturing.",
+          "Corporatization of Ordnance Factory Board (OFB) approved."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 148301,
+        "description": "Enhanced agricultural credit target to ₹16.5 Lakh Crore. Focus on micro-irrigation and value addition.",
+        "schemes": [
+          {
+            "name": "PM-KISAN",
+            "allocation": 65000,
+            "description": "Direct income support of ₹6,000 per year to farmers."
+          },
+          {
+            "name": "Interest Subvention Scheme",
+            "allocation": 19468,
+            "description": "Subsidized loans for farmers."
+          },
+          {
+            "name": "Pradhan Mantri Fasal Bima Yojana",
+            "allocation": 16000,
+            "description": "Crop insurance scheme."
+          }
+        ],
+        "policies": [
+          "Agricultural credit target enhanced to ₹16.5 lakh crore.",
+          "Operation Green scheme expanded to cover 22 perishable products."
+        ],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 93224,
+        "description": "Implementation of National Education Policy (NEP) 2020. Strengthening of 15,000 schools under PM SHRI.",
+        "schemes": [
+          {
+            "name": "Samagra Shiksha",
+            "allocation": 31050,
+            "description": "Integrated scheme for school education."
+          },
+          {
+            "name": "Mid-Day Meal Scheme",
+            "allocation": 11500,
+            "description": "Nutritional support for school children."
+          },
+          {
+            "name": "Kendriya Vidyalaya Sangathan",
+            "allocation": 6800,
+            "description": "Maintenance and development of KVs."
+          }
+        ],
+        "policies": [
+          "Legislation for setting up of Higher Education Commission of India (HECI).",
+          "Setting up of 100 new Sainik Schools in partnership with NGOs/private schools."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 110055,
+        "description": "National Rail Plan 2030 aimed at creating a 'future-ready' railway system. 100% electrification of broad gauge routes by 2023.",
+        "schemes": [
+          {
+            "name": "Capital Expenditure",
+            "allocation": 107100,
+            "description": "Record capital outlay for infrastructure creation."
+          }
+        ],
+        "policies": [
+          "National Rail Plan for India - 2030 to create a 'future ready' Railway system.",
+          "Western and Eastern Dedicated Freight Corridors to be commissioned."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 73932,
+        "description": "Launch of PM Atmanirbhar Swasth Bharat Yojana (₹64,180 Cr over 6 years). ₹35,000 Cr separately for COVID-19 vaccines.",
+        "schemes": [
+          {
+            "name": "National Health Mission",
+            "allocation": 37130,
+            "description": "Primary healthcare support."
+          },
+          {
+            "name": "PM Jan Arogya Yojana (PMJAY)",
+            "allocation": 6400,
+            "description": "Health insurance for the poor."
+          },
+          {
+            "name": "COVID-19 Vaccination",
+            "allocation": 35000,
+            "description": "Special allocation for vaccine procurement and distribution."
+          }
+        ],
+        "policies": [
+          "Launch of PM Atmanirbhar Swasth Bharat Yojana to develop capacities of primary, secondary, and tertiary care systems.",
+          "Mission Poshan 2.0 launched to improve nutritional outcomes."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 118101,
+        "description": "Highest ever allocation for MoRTH. Focus on completion of Bharatmala Pariyojana works.",
+        "schemes": [
+          {
+            "name": "National Highways Authority of India (NHAI)",
+            "allocation": 57350,
+            "description": "Investment in NHAI for highway construction."
+          },
+          {
+            "name": "Road Works",
+            "allocation": 52000,
+            "description": "Direct expenditure on road construction."
+          }
+        ],
+        "policies": [
+          "Voluntary Vehicle Scrapping Policy to phase out old and unfit vehicles.",
+          "Award of 8,500 km of road construction under Bharatmala Pariyojana."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 133690,
+        "description": "Continued focus on MGNREGA and rural housing.",
+        "schemes": [
+          {
+            "name": "MGNREGA",
+            "allocation": 73000,
+            "description": "Employment guarantee scheme."
+          },
+          {
+            "name": "Pradhan Mantri Awas Yojana (Gramin)",
+            "allocation": 19500,
+            "description": "Housing for rural poor."
+          },
+          {
+            "name": "Pradhan Mantri Gram Sadak Yojana",
+            "allocation": 15000,
+            "description": "Rural road connectivity."
+          }
+        ],
+        "policies": [
+          "Extension of SWAMITVA Scheme (property cards) to all states/UTs.",
+          "Enhanced allocation for Rural Infrastructure Development Fund (RIDF) to ₹40,000 crore."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 14793,
+        "description": "Launch of Deep Ocean Mission and National Research Foundation.",
+        "schemes": [
+          {
+            "name": "Department of Biotechnology",
+            "allocation": 3500,
+            "description": "Biotech research and development."
+          },
+          {
+            "name": "Department of Science & Technology",
+            "allocation": 6067,
+            "description": "Promotion of science and technology."
+          }
+        ],
+        "policies": [
+          "Allocation of ₹50,000 crore over 5 years for National Research Foundation (NRF).",
+          "Launch of Deep Ocean Mission with budget outlay of ₹4,000 crore over 5 years."
+        ],
+        "sourceUrl": "https://www.dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 53108,
+        "description": "Focus on BharatNet and digital payments promotion.",
+        "schemes": [
+          {
+            "name": "BharatNet",
+            "allocation": 7000,
+            "description": "Broadband connectivity for gram panchayats."
+          },
+          {
+            "name": "Promotion of Digital Payments",
+            "allocation": 1500,
+            "description": "Incentives for digital transactions."
+          }
+        ],
+        "policies": [
+          "National Language Translation Mission (NLTM) to make governance knowledge available in major Indian languages.",
+          "Launch of data analytics, AI, ML driven MCA21 Version 3.0."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2022-2023",
+    "total_expenditure": 3944909,
+    "total_receipts": 2283713,
+    "fiscal_deficit": 6.4,
+    "inflation_rate": 6.7,
+    "usd_inr_rate": 79.8,
+    "gdp_growth": 7.0,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 525166,
+        "description": "68% of capital procurement budget earmarked for domestic industry. Significant focus on border infrastructure and R&D opening for startups.",
+        "schemes": [
+          {
+            "name": "Capital Outlay",
+            "allocation": 152370,
+            "description": "Procurement of new equipment with focus on domestic industry."
+          },
+          {
+            "name": "Defence R&D",
+            "allocation": 11000,
+            "description": "25% of R&D budget opened up for industry, startups and academia (Estimated)."
+          },
+          {
+            "name": "Border Infrastructure",
+            "allocation": 3500,
+            "description": "Strengthening border roads and bridges."
+          }
+        ],
+        "policies": [
+          "68% of capital procurement budget earmarked for domestic industry.",
+          "Defence R&D opened up for industry, startups and academia with 25% of defence R&D budget earmarked."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/doc/eb/vol1.pdf"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 132514,
+        "description": "Promotion of Kisan Drones, Chemical-free Natural Farming, and Ken-Betwa Link Project.",
+        "schemes": [
+          {
+            "name": "PM-KISAN",
+            "allocation": 68000,
+            "description": "Direct income support to farmers."
+          },
+          {
+            "name": "Ken-Betwa Link Project",
+            "allocation": 1400,
+            "description": "Irrigation benefits to 9.08 lakh hectares of farmers' lands."
+          },
+          {
+            "name": "Rashtriya Krishi Vikas Yojana",
+            "allocation": 10433,
+            "description": "Holistic development of agriculture and allied sectors."
+          }
+        ],
+        "policies": [
+          "Promotion of Chemical-free Natural Farming starting with 5-km wide corridors along river Ganga.",
+          "Use of 'Kisan Drones' for crop assessment, digitization of land records, and spraying of insecticides.",
+          "NABARD to facilitate funds with blended capital for agri-startups."
+        ],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 104278,
+        "description": "Focus on digital education: 'One Class-One TV Channel' expanded to 200 channels. Establishment of Digital University.",
+        "schemes": [
+          {
+            "name": "Samagra Shiksha",
+            "allocation": 37383,
+            "description": "Integrated scheme for school education."
+          },
+          {
+            "name": "PM POSHAN",
+            "allocation": 10234,
+            "description": "Mid-day meal scheme."
+          },
+          {
+            "name": "PM eVIDYA",
+            "allocation": 1000,
+            "description": "Expansion to 200 TV channels for supplementary education (Estimate)."
+          }
+        ],
+        "policies": [
+          "Establishment of a Digital University to provide access to world-class quality universal education.",
+          "750 virtual labs in science and mathematics, and 75 skilling e-labs to be set up."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 140367,
+        "description": "Integration with PM Gati Shakti. Plan for 400 Vande Bharat trains and 'One Station-One Product' concept.",
+        "schemes": [
+          {
+            "name": "Rolling Stock",
+            "allocation": 15000,
+            "description": "Manufacturing of 400 new-generation Vande Bharat trains (Part of Capital Outlay)."
+          },
+          {
+            "name": "Track Renewal",
+            "allocation": 16500,
+            "description": "Safety and modernization."
+          },
+          {
+            "name": "Kavach System",
+            "allocation": 2000,
+            "description": "Indigenous world-class technology for safety and capacity augmentation (2,000 km network)."
+          }
+        ],
+        "policies": [
+          "400 new-generation Vande Bharat Trains to be developed and manufactured.",
+          "'One Station-One Product' concept to be popularized to help local businesses.",
+          "100 PM GatiShakti Cargo Terminals for multimodal logistics facilities."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 86200,
+        "description": "Launch of National Digital Health Ecosystem and National Tele Mental Health Programme.",
+        "schemes": [
+          {
+            "name": "National Health Mission",
+            "allocation": 37000,
+            "description": "Supporting state health systems."
+          },
+          {
+            "name": "PM-ABHIM",
+            "allocation": 5846,
+            "description": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission."
+          },
+          {
+            "name": "Pradhan Mantri Swasthya Suraksha Yojana",
+            "allocation": 10000,
+            "description": "Setting up new AIIMS and upgrading medical colleges."
+          }
+        ],
+        "policies": [
+          "Roll out of National Digital Health Ecosystem (digital registries of health providers/facilities).",
+          "Launch of National Tele Mental Health Programme for quality mental health counselling."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 199107,
+        "description": "Massive expansion of National Highways network by 25,000 km. PM Gati Shakti Master Plan.",
+        "schemes": [
+          {
+            "name": "National Highways Authority of India (NHAI)",
+            "allocation": 134015,
+            "description": "Investment for highway expansion."
+          },
+          {
+            "name": "Road Works",
+            "allocation": 60000,
+            "description": "Construction and maintenance."
+          }
+        ],
+        "policies": [
+          "PM Gati Shakti Master Plan for Expressways to be formulated.",
+          "National Highways network to be expanded by 25,000 km in 2022-23."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 138203,
+        "description": "Focus on housing (PMAY-G) and Har Ghar Nal Se Jal. Vibrant Villages Programme for border areas.",
+        "schemes": [
+          {
+            "name": "MGNREGA",
+            "allocation": 73000,
+            "description": "Rural employment guarantee."
+          },
+          {
+            "name": "Pradhan Mantri Awas Yojana (Gramin)",
+            "allocation": 20000,
+            "description": "Housing for rural poor (Target: 80 lakh houses including urban)."
+          },
+          {
+            "name": "Pradhan Mantri Gram Sadak Yojana",
+            "allocation": 19000,
+            "description": "Rural road connectivity."
+          },
+          {
+            "name": "Har Ghar Nal Se Jal",
+            "allocation": 60000,
+            "description": "Tap water connection to 3.8 crore households (Jal Shakti Ministry)."
+          }
+        ],
+        "policies": [
+          "Vibrant Villages Programme for development of border villages.",
+          "100% of 1.5 lakh post offices to come on the core banking system."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 19500,
+        "description": "Major push for Solar PLI. Sovereign Green Bonds aimed at green infrastructure.",
+        "schemes": [
+          {
+            "name": "PLI for Solar PV Modules",
+            "allocation": 19500,
+            "description": "Manufacturing of high efficiency modules (Total outlay allocation)."
+          },
+          {
+            "name": "Solar Power (Grid + Off-grid)",
+            "allocation": 3365,
+            "description": "Promotion of solar energy projects."
+          }
+        ],
+        "policies": [
+          "Sovereign Green Bonds to be issued for mobilizing resources for green infrastructure.",
+          "Battery Swapping Policy to be brought out for interoperability standards."
+        ],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 14217,
+        "description": "Steady support for DST and DBT. Focus on deep ocean mission and space.",
+        "schemes": [
+          {
+            "name": "Department of Science & Technology",
+            "allocation": 6000,
+            "description": "Core science research support."
+          },
+          {
+            "name": "Space Technology",
+            "allocation": 13700,
+            "description": "Department of Space allocation (separate from Science Ministry total, but relevant)."
+          },
+          {
+            "name": "Deep Ocean Mission",
+            "allocation": 650,
+            "description": "Exploration of deep ocean resources."
+          }
+        ],
+        "policies": [
+          "Private intent players to be allowed to set up innovation centres and testing facilities for Space."
+        ],
+        "sourceUrl": "https://dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 84587,
+        "description": "5G Spectrum auctions and BSNL revival. Design-led manufacturing for 5G.",
+        "schemes": [
+          {
+            "name": "BSNL Capital Infusion",
+            "allocation": 44720,
+            "description": "Support for 4G spectrum and technology upgradation."
+          },
+          {
+            "name": "BharatNet",
+            "allocation": 7000,
+            "description": "Optical fibre connectivity for villages."
+          },
+          {
+            "name": "PLI for Design-led Manufacturing",
+            "allocation": 4000,
+            "description": "Incentives for telecom product manufacturing (Estimate part of PLI pool)."
+          }
+        ],
+        "policies": [
+          "Spectrum auctions for 5G rollout.",
+          "Scheme for design-led manufacturing to be launched to build a strong ecosystem for 5G."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2023-2024",
+    "total_expenditure": 4503097,
+    "total_receipts": 2716281,
+    "fiscal_deficit": 5.9,
+    "inflation_rate": 5.4,
+    "usd_inr_rate": 82.8,
+    "gdp_growth": 7.6,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 593538,
+        "description": "Thrust on modernisation and infrastructure development. Capital outlay increased by 57% since 2019-20. Focus on 'Aatmanirbharta' in defence production.",
+        "schemes": [
+          {
+            "name": "Agnipath Scheme",
+            "allocation": 4266,
+            "description": "Transformative reform for recruitment of youth in the Armed Forces."
+          },
+          {
+            "name": "Modernisation of Armed Forces (Capital Outlay)",
+            "allocation": 162600,
+            "description": "Procurement of new equipment, aircraft, and warships."
+          },
+          {
+            "name": "Defence Research and Development (DRDO)",
+            "allocation": 23264,
+            "description": "R&D for cutting-edge defence technologies."
+          },
+          {
+            "name": "Border Infrastructure",
+            "allocation": 5000,
+            "description": "Strengthening infrastructure via Border Roads Organisation (BRO)."
+          }
+        ],
+        "policies": [
+          "75% of capital procurement budget earmarked for domestic industry.",
+          "Corporatization of Ordnance Factory Board (OFB).",
+          "Emphasis on 'Make in India' for defence equipment."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/doc/eb/vol1.pdf"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 125036,
+        "description": "Inclusive growth with focus on digital infrastructure, accelerator fund for agri-startups, and promotion of millets ('Shree Anna').",
+        "schemes": [
+          {
+            "name": "PM-KISAN",
+            "allocation": 60000,
+            "description": "Income support of ₹6,000 per year to farmers."
+          },
+          {
+            "name": "Agriculture Accelerator Fund",
+            "allocation": 500,
+            "description": "Encouraging agri-startups by young entrepreneurs in rural areas."
+          },
+          {
+            "name": "Atmanirbhar Clean Plant Program",
+            "allocation": 2200,
+            "description": "Boost availability of disease-free, quality planting material for high value horticultural crops."
+          },
+          {
+            "name": "PM Pranam",
+            "allocation": 0,
+            "description": "Incentivize states to promote alternative fertilizers (funded through savings in fertilizer subsidy)."
+          }
+        ],
+        "policies": [
+          "Agriculture Credit Target increased to ₹20 Lakh Crore.",
+          "Digital Public Infrastructure for Agriculture to be built.",
+          "Hyderabad-based Institute of Millet Research promoted as Center of Excellence."
+        ],
+        "sourceUrl": "https://agricoop.nic.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 112899,
+        "description": "Highest ever allocation (at the time). Re-envisioning teacher training, setting up National Digital Library, and recruiting for Eklavya Model Residential Schools.",
+        "schemes": [
+          {
+            "name": "Samagra Shiksha",
+            "allocation": 37453,
+            "description": "Comprehensive program for school education."
+          },
+          {
+            "name": "PM POSHAN",
+            "allocation": 11600,
+            "description": "Mid-day meal scheme for school children."
+          },
+          {
+            "name": "Eklavya Model Residential Schools (EMRS)",
+            "allocation": 5943,
+            "description": "Recruitment of 38,800 teachers and support staff for 740 schools."
+          },
+          {
+            "name": "PM SHRI",
+            "allocation": 4000,
+            "description": "Development of more than 14,500 schools across the country."
+          }
+        ],
+        "policies": [
+          "National Digital Library for children and adolescents.",
+          "Three Centres of Excellence for Artificial Intelligence in educational institutions.",
+          "Setting up of 157 new nursing colleges."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 240000,
+        "description": "Highest-ever capital outlay (9x of 2013-14). 100% electrification of broad gauge routes and manufacturing of Vande Bharat trains.",
+        "schemes": [
+          {
+            "name": "Rolling Stock",
+            "allocation": 37581,
+            "description": "Procurement of wagons, coaches (including Vande Bharat), and locomotives."
+          },
+          {
+            "name": "New Lines Construction",
+            "allocation": 31850,
+            "description": "Expansion of rail network."
+          },
+          {
+            "name": "Track Renewal",
+            "allocation": 17296,
+            "description": "Safety and modernization of tracks."
+          },
+          {
+            "name": "Signalling & Telecom",
+            "allocation": 4198,
+            "description": "Upgradation including Kavach system."
+          }
+        ],
+        "policies": [
+          "Capital Outlay of ₹2.40 Lakh Crore.",
+          "Logistics efficiency through PM Gati Shakti.",
+          "Redevelopment of 508 railway stations under Amrit Bharat Station Scheme."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 89155,
+        "description": "Focus on eliminating Sickle Cell Anaemia and promoting research in pharmaceuticals. Establishment of new nursing colleges.",
+        "schemes": [
+          {
+            "name": "National Health Mission",
+            "allocation": 29085,
+            "description": "Core scheme for primary and secondary healthcare."
+          },
+          {
+            "name": "Ayushman Bharat-PMJAY",
+            "allocation": 7200,
+            "description": "Health insurance coverage for the poor."
+          },
+          {
+            "name": "PM-ABHIM",
+            "allocation": 4200,
+            "description": "Strengthening health infrastructure and pandemic preparedness."
+          },
+          {
+            "name": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)",
+            "allocation": 3365,
+            "description": "Creation of new AIIMS and upgrading government medical colleges."
+          }
+        ],
+        "policies": [
+          "Mission to eliminate Sickle Cell Anaemia by 2047.",
+          "Opening ICMR labs for research by public and private medical college faculty.",
+          "New programme to promote research in Pharmaceuticals."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 270435,
+        "description": "Enhanced outlay for National Highways. Focus on sustainable roads and better connectivity under Bharatmala.",
+        "schemes": [
+          {
+            "name": "National Highways Authority of India (NHAI) Investment",
+            "allocation": 162207,
+            "description": "Investment in NHAI for highway construction."
+          },
+          {
+            "name": "Road Works",
+            "allocation": 107228,
+            "description": "Maintenance and development of roads."
+          }
+        ],
+        "policies": [
+          "Scrappage Policy for old vehicles to reduce pollution.",
+          "PM Gati Shakti Master Plan for expressways.",
+          "Connectivity to multimodal logistics parks."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 159964,
+        "description": "Housing for all (PMAY-G) and rural employment (MGNREGA). Focus on self-help groups and rural livelihoods.",
+        "schemes": [
+          {
+            "name": "MGNREGA",
+            "allocation": 60000,
+            "description": "Wage employment guarantee scheme."
+          },
+          {
+            "name": "Pradhan Mantri Awas Yojana (Gramin)",
+            "allocation": 54487,
+            "description": "Financial assistance for construction of pucca houses (allocation increased by 66%)."
+          },
+          {
+            "name": "Pradhan Mantri Gram Sadak Yojana (PMGSY)",
+            "allocation": 19000,
+            "description": "All-weather road connectivity to unconnected habitations."
+          },
+          {
+            "name": "National Livelihood Mission (Ajeevika)",
+            "allocation": 14129,
+            "description": "Poverty alleviation through self-employment."
+          }
+        ],
+        "policies": [
+          "Target to mobilize rural women into 81 lakh Self Help Groups.",
+          "PM Vishwakarma Kaushal Samman (PM VIKAS) for traditional artisans."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 94915,
+        "description": "Green Growth priority: National Green Hydrogen Mission and Battery Energy Storage Systems (BESS).",
+        "schemes": [
+          {
+            "name": "National Green Hydrogen Mission",
+            "allocation": 297,
+            "description": "Initial allocation to kickstart the mission (Target 5 MMT by 2030)."
+          },
+          {
+            "name": "Solar Power (Grid)",
+            "allocation": 4970,
+            "description": "Promotion of grid-interactive solar power projects."
+          },
+          {
+            "name": "Green Energy Corridor",
+            "allocation": 500,
+            "description": "Inter-state transmission system for renewable energy."
+          },
+          {
+            "name": "Reform Linked Distribution Scheme",
+            "allocation": 12072,
+            "description": "Revamping power distribution sector."
+          }
+        ],
+        "policies": [
+          "Viability Gap Funding for Battery Energy Storage Systems (4,000 MWh).",
+          "Inter-state transmission system for evacuation and grid integration of 13 GW renewable energy from Ladakh.",
+          "Green Credit Programme notified."
+        ],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 16361,
+        "description": "Focus on National Research Foundation and deep tech. Boost for space and biotechnology research.",
+        "schemes": [
+          {
+            "name": "National Research Foundation (NRF)",
+            "allocation": 2000,
+            "description": "Seeding, growing, and facilitating research in India (initial outlay)."
+          },
+          {
+            "name": "Biotechnology R&D",
+            "allocation": 2683,
+            "description": "Research in biotechnology and allied areas."
+          },
+          {
+            "name": "Space Technology",
+            "allocation": 12543,
+            "description": "Department of Space allocation for launch vehicles and satellites."
+          }
+        ],
+        "policies": [
+          "Lab Grown Diamonds (LGD) sector to be encouraged with R&D grant.",
+          "National Data Governance Policy to unleash innovation."
+        ],
+        "sourceUrl": "https://dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 123000,
+        "description": "Capital infusion for BSNL (4G/5G) and strengthening digital infrastructure. PLI schemes for electronics.",
+        "schemes": [
+          {
+            "name": "BSNL Capital Infusion",
+            "allocation": 52937,
+            "description": "Capital support for 4G/5G rollout and upgradation."
+          },
+          {
+            "name": "BharatNet",
+            "allocation": 5000,
+            "description": "optical fibre connectivity to Gram Panchayats."
+          },
+          {
+            "name": "PLI for Large Scale Electronics",
+            "allocation": 4499,
+            "description": "Incentives for mobile phone and component manufacturing."
+          },
+          {
+            "name": "Cyber Security Projects",
+            "allocation": 400,
+            "description": "Strengthening cyber security infrastructure."
+          }
+        ],
+        "policies": [
+          "100 labs for developing applications using 5G services.",
+          "Expansion of Digital Public Infrastructure.",
+          "PAN to be used as Common Business Identifier."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  },
+  {
+    "year": "2024-2025",
+    "total_expenditure": 4765768,
+    "total_receipts": 3080274,
+    "fiscal_deficit": 5.1,
+    "inflation_rate": 5.4,
+    "usd_inr_rate": 83.0,
+    "gdp_growth": 7.3,
+    "sectors": [
+      {
+        "name": "Defence",
+        "allocation": 621541,
+        "description": "Highest allocation in history, focusing on self-reliance ('Atmanirbharta') and modernization. Emphasis on deep-tech technologies and strengthening border infrastructure.",
+        "schemes": [
+          {
+            "name": "Deep Tech Technologies for Defence",
+            "allocation": 100000,
+            "description": "Part of the ₹1 Lakh Crore corpus for long-term financing of research and innovation in sunrise domains."
+          },
+          {
+            "name": "Agnipath Scheme",
+            "allocation": 5979,
+            "description": "Recruitment of youth in armed forces (Army: ₹5207 Cr, Navy: ₹352 Cr, Air Force: ₹420 Cr)."
+          },
+          {
+            "name": "Border Infrastructure",
+            "allocation": 6500,
+            "description": "Strengthening strategic infrastructure along northern and eastern borders."
+          }
+        ],
+        "policies": [
+          "Consolidation of Demand for optimizing procurement efficiency.",
+          "Focus on developing deep-tech capabilities in defence sector.",
+          "Implementation of 'Atmanirbhar Bharat' with 75% capital budget earmarked for domestic industry."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/doc/eb/vol1.pdf"
+      },
+      {
+        "name": "Agriculture",
+        "allocation": 151550,
+        "description": "Focus on value addition, crop insurance, and direct income support. Promotion of private/public investment in post-harvest activities and modern storage.",
+        "schemes": [
+          {
+            "name": "PM-KISAN",
+            "allocation": 60000,
+            "description": "Direct financial assistance to 11.8 crore farmers."
+          },
+          {
+            "name": "PM Fasal Bima Yojana",
+            "allocation": 14600,
+            "description": "Crop insurance coverage for 4 crore farmers."
+          },
+          {
+            "name": "Electronic National Agriculture Market (e-NAM)",
+            "allocation": 7500,
+            "description": "Integration of 1361 mandis to unify the national agricultural market (Estimate based on marketing infra)."
+          },
+          {
+            "name": "Pradhan Mantri Formalisation of Micro Food Processing Enterprises (PMFME)",
+            "allocation": 880,
+            "description": "Promoting value addition in agricultural produce."
+          }
+        ],
+        "policies": [
+          "Atmanirbhar Oil Seeds Abhiyan to reduce import dependency.",
+          "Application of Nano DAP locally on various crops to be expanded.",
+          "Formulation of strategy for achieving self-reliance in oilseeds.",
+          "Promotion of private and public investment in post-harvest activities."
+        ],
+        "sourceUrl": "https://www.indiabudget.gov.in/"
+      },
+      {
+        "name": "Education",
+        "allocation": 120628,
+        "description": "Highest ever allocation; emphasis on digital literacy, teacher training, and implementing NEP 2020. Focus on female enrolment in STEM and higher education.",
+        "schemes": [
+          {
+            "name": "PM-SHRI",
+            "allocation": 6050,
+            "description": "Upgradation of over 14,500 schools to showcase NEP 2020."
+          },
+          {
+            "name": "Samagra Shiksha",
+            "allocation": 37500,
+            "description": "Integrated scheme for school education."
+          },
+          {
+            "name": "Pradhan Mantri Poshan Shakti Nirman (PM POSHAN)",
+            "allocation": 12467,
+            "description": "One hot cooked meal in Government and Government-aided schools."
+          },
+          {
+            "name": "Rashtriya Uchchatar Shiksha Abhiyan (RUSA)",
+            "allocation": 1800,
+            "description": "Strategic funding to eligible state higher educational institutions (Institutions of Eminence)."
+          }
+        ],
+        "policies": [
+          "National Education Policy 2020 implementation.",
+          "Skill India Mission: 1.4 crore youth trained, 54 lakh reskilled.",
+          "Female enrolment in higher education increased by 28% in 10 years.",
+          "43% female enrolment in STEM courses, one of the highest in the world."
+        ],
+        "sourceUrl": "https://www.education.gov.in/"
+      },
+      {
+        "name": "Railways",
+        "allocation": 255393,
+        "description": "Massive push for logistics efficiency with three new economic corridors. upgrading passenger safety and comfort with Vande Bharat standards for normal bogies.",
+        "schemes": [
+          {
+            "name": "Rolling Stock",
+            "allocation": 15000,
+            "description": "Conversion of 40,000 normal rail bogies to Vande Bharat standards (Estimated part of Capital Outlay)."
+          },
+          {
+            "name": "New Lines Construction",
+            "allocation": 35000,
+            "description": "Expansion of railway network capacity."
+          },
+          {
+            "name": "Safety Fund (Rashtriya Rail Sanraksha Kosh)",
+            "allocation": 45000,
+            "description": "Dedicated fund for critical safety works."
+          }
+        ],
+        "policies": [
+          "Implementation of 3 Major Economic Railway Corridors: Energy/Mineral/Cement, Port Connectivity, and High Traffic Density.",
+          "Focus on 'Safety' and 'Capacity Augmentation' under PM Gati Shakti.",
+          "Expansion of Metro Rail and NaMo Bharat in large cities."
+        ],
+        "sourceUrl": "https://indianrailways.gov.in/"
+      },
+      {
+        "name": "Healthcare",
+        "allocation": 98761,
+        "description": "Expansion of health cover to ASHA/Anganwadi workers and focus on cervical cancer vaccination. Setting up more medical colleges by utilizing existing hospital infrastructure.",
+        "schemes": [
+          {
+            "name": "Ayushman Bharat-PMJAY",
+            "allocation": 7500,
+            "description": "Health cover extended to all ASHA and Anganwadi workers/helpers."
+          },
+          {
+            "name": "National Health Mission",
+            "allocation": 38183,
+            "description": "Supporting state health systems."
+          },
+          {
+            "name": "PLI for Pharmaceuticals",
+            "allocation": 2143,
+            "description": "Boosting domestic manufacturing of critical drugs."
+          },
+          {
+            "name": "PM-ABHIM",
+            "allocation": 3756,
+            "description": "Pradhan Mantri Ayushman Bharat Health Infrastructure Mission (63% increase)."
+          }
+        ],
+        "policies": [
+          "Encouragement of Cervical Cancer Vaccination for girls (9-14 years).",
+          "U-WIN platform rollout for managing immunization.",
+          "Committee to be set up to examine setting up more medical colleges."
+        ],
+        "sourceUrl": "https://www.mohfw.gov.in/"
+      },
+      {
+        "name": "Road Transport",
+        "allocation": 278000,
+        "description": "Continued focus on capital expenditure (Capex) for National Highways to improve logistics efficiency and connectivity.",
+        "schemes": [
+          {
+            "name": "National Highways Authority of India (NHAI) Investment",
+            "allocation": 168000,
+            "description": "Development of National Highway Corridors."
+          },
+          {
+            "name": "Road Works",
+            "allocation": 109000,
+            "description": "Construction and maintenance of roads."
+          }
+        ],
+        "policies": [
+          "Bharatmala Pariyojana for optimizing efficiency of freight and passenger movement.",
+          "Focus on multimodal connectivity.",
+          "Adoption of self-healing road technology pilots."
+        ],
+        "sourceUrl": "https://morth.nic.in/"
+      },
+      {
+        "name": "Rural Development",
+        "allocation": 180233,
+        "description": "Empowering rural women through 'Lakhpati Didi' and ensuring housing for all. Continued support for rural employment guarantee.",
+        "schemes": [
+          {
+            "name": "MGNREGA",
+            "allocation": 86000,
+            "description": "Guaranteed wage employment for rural households."
+          },
+          {
+            "name": "Pradhan Mantri Awas Yojana (Gramin)",
+            "allocation": 54500,
+            "description": "Target to construct 2 crore additional houses in next 5 years."
+          },
+          {
+            "name": "National Livelihood Mission (Ajeevika)",
+            "allocation": 15047,
+            "description": "Creating efficient and effective institutional platforms for rural poor."
+          }
+        ],
+        "policies": [
+          "Target for 'Lakhpati Didi' enhanced from 2 crore to 3 crore women.",
+          "Focus on self-help groups (SHGs) for rural economic empowerment."
+        ],
+        "sourceUrl": "https://rural.nic.in/"
+      },
+      {
+        "name": "Energy",
+        "allocation": 39602,
+        "description": "Transition towards renewable energy with 'Rooftop Solarization' and viability gap funding for offshore wind. Blending of Compressed Biogas made mandatory.",
+        "schemes": [
+          {
+            "name": "PM Surya Ghar: Muft Bijli Yojana",
+            "allocation": 10000,
+            "description": "Rooftop solarization for 1 crore households providing up to 300 units free electricity."
+          },
+          {
+            "name": "Green Energy Corridor",
+            "allocation": 600,
+            "description": "Grid integration of renewable energy projects."
+          },
+          {
+            "name": "National Green Hydrogen Mission",
+            "allocation": 600,
+            "description": "Promoting green hydrogen production."
+          }
+        ],
+        "policies": [
+          "Viability Gap Funding provided for harnessing offshore wind energy potential (1 GW).",
+          "Mandatory blending of Compressed Biogas (CBG) in CNG and PNG.",
+          "Coal gasification and liquefaction capacity of 100 MT to be set up by 2030."
+        ],
+        "sourceUrl": "https://powermin.gov.in/"
+      },
+      {
+        "name": "Science",
+        "allocation": 29646,
+        "description": "Boost for research and innovation with a ₹1 Lakh Crore corpus. Focus on deep-tech for defence and space sector reforms.",
+        "schemes": [
+          {
+            "name": "Innovation R&D Corpus",
+            "allocation": 100000,
+            "description": "Corpus for long-term financing of research and innovation (provisioned)."
+          },
+          {
+            "name": "Biotechnology R&D",
+            "allocation": 2251,
+            "description": "Bio-manufacturing and bio-foundry promotion."
+          },
+          {
+            "name": "National Quantum Mission",
+            "allocation": 477,
+            "description": "R&D in Quantum Technology."
+          }
+        ],
+        "policies": [
+          "New scheme for bio-manufacturing and bio-foundry launched.",
+          "Opening up of space sector for private participation.",
+          "Establishment of ₹1 Lakh Crore corpus for interest-free loans to tech-savvy youth."
+        ],
+        "sourceUrl": "https://dst.gov.in/"
+      },
+      {
+        "name": "IT & Telecom",
+        "allocation": 133846,
+        "description": "Semicondcutor ecosystem development and AI mission. Large allocation for BSNL revival/telecom infrastructure under broader communications.",
+        "schemes": [
+          {
+            "name": "Semiconductors & Display Manufacturing",
+            "allocation": 6903,
+            "description": "Development of semiconductor and display manufacturing ecosystem (359% increase)."
+          },
+          {
+            "name": "Production Linked Incentive (PLI)",
+            "allocation": 6200,
+            "description": "PLI for Large Scale Electronics Manufacturing and IT Hardware (33% increase)."
+          },
+          {
+            "name": "IndiaAI Mission",
+            "allocation": 551,
+            "description": "Democratizing computing, dataset access, and AI skills."
+          },
+          {
+            "name": "Cyber Security Projects",
+            "allocation": 759,
+            "description": "Protecting national digital infrastructure (90% increase)."
+          }
+        ],
+        "policies": [
+          "Establishment of three Centres of Excellence (CoEs) for Artificial Intelligence.",
+          "Digital Public Infrastructure (DPI) promotion across agriculture, credit, and health.",
+          "Revival of BSNL and extension of telecom coverage to underserved areas.",
+          "Focus on Deepfakes and Cybersecurity."
+        ],
+        "sourceUrl": "https://www.meity.gov.in/"
+      }
+    ]
+  }
+]

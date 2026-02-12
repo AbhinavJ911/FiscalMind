@@ -1,0 +1,45 @@
+[dotenv@17.2.4] injecting env (3) from .env -- tip: 🔐 encrypt with Dotenvx: https://dotenvx.com
+MongoDB connected for seeding
+Saved Budget for 2004-2005
+Saved 10 sectors for 2004-2005
+Saved Budget for 2005-2006
+Saved 10 sectors for 2005-2006
+Saved Budget for 2006-2007
+Saved 10 sectors for 2006-2007
+Saved Budget for 2007-2008
+Saved 10 sectors for 2007-2008
+Saved Budget for 2008-2009
+Saved 10 sectors for 2008-2009
+Saved Budget for 2009-2010
+Saved 10 sectors for 2009-2010
+Saved Budget for 2010-2011
+Saved 10 sectors for 2010-2011
+Saved Budget for 2011-2012
+Saved 10 sectors for 2011-2012
+Saved Budget for 2012-2013
+Saved 10 sectors for 2012-2013
+Saved Budget for 2013-2014
+Saved 10 sectors for 2013-2014
+Saved Budget for 2014-2015
+Saved 10 sectors for 2014-2015
+Saved Budget for 2015-2016
+Saved 10 sectors for 2015-2016
+Saved Budget for 2016-2017
+Saved 10 sectors for 2016-2017
+Saved Budget for 2017-2018
+Saved 10 sectors for 2017-2018
+Saved Budget for 2018-2019
+Saved 10 sectors for 2018-2019
+Saved Budget for 2019-2020
+Saved 10 sectors for 2019-2020
+Saved Budget for 2020-2021
+Saved 10 sectors for 2020-2021
+Saved Budget for 2021-2022
+Saved 9 sectors for 2021-2022
+Saved Budget for 2022-2023
+Saved 10 sectors for 2022-2023
+Saved Budget for 2023-2024
+Saved 10 sectors for 2023-2024
+Saved Budget for 2024-2025
+Saved 10 sectors for 2024-2025
+Seeding complete
